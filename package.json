@@ -1,0 +1,30 @@
+{
+  "name": "misans-vf-4web",
+  "version": "1.0.0",
+  "description": "MiSans VF font for web. Splitted by KonghaYao/cn-font-split.",
+  "type": "module",
+  "dependencies": {
+    "cn-font-split": "^7.4.1"
+  },
+  "scripts": {
+    "build": "node main.js"
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyanci/Misansvf.git"
+  },
+  "keywords": [
+    "misans",
+    "fonts",
+    "css",
+    "webfont"
+  ],
+  "author": "luyanci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyanci/Misansvf/issues"
+  },
+  "homepage": "https://github.com/luyanci/Misansvf#readme"
+}
