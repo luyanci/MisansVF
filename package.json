@@ -14,10 +14,10 @@
   "scripts": {
     "build": "node main.js"
   },
-  "main": "dist/index.css",
-  "style": "dist/index.css",
+  "main": "dist/result.css",
+  "style": "dist/result.css",
   "exports": {
-      "default": "./dist/HarmonyOS_Sans_SC/index.css"
+      "default": "./dist/result.css"
   },
   "repository": {
     "type": "git",
