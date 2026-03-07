@@ -1,6 +1,6 @@
 {
   "name": "misans-vf-4web",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "MiSans VF font for web. Splitted by KonghaYao/cn-font-split.",
   "type": "module",
   "devDependencies": {
@@ -16,9 +16,6 @@
   },
   "main": "dist/result.css",
   "style": "dist/result.css",
-  "exports": {
-      "default": "./dist/result.css"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luyanci/Misansvf.git"
